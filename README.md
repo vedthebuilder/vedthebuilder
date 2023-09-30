@@ -2,7 +2,7 @@
 <h3 align="center">An Informatics and Cybersecurity Graduate and your friendly tech explorer in the digital wilderness! 🌍✨</h3>
 <br>
 <br>
-## 💫 About Me:
+<h2 align="center">💫 About Me:</h2>
 <br>🌱 Curiosity-Driven: I believe that asking "Why?" leads to innovation. I'm always digging deeper to uncover the 'hows' and 'whys' of technology.
 <br>👨‍💻 Tech Adventurer: Navigating through the digital landscape is my thrill. From networks to cybersecurity, I'm always up for an exciting tech expedition.
 <br>✨ Code Magician: I wield the power of code to conjure solutions, turning ideas into reality one line at a time.
