@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! 👋, I'm Ved</h1>
+<h1 align="center">Hello World! 👋, I'm Ved</h1>
 <h3 align="center">An Informatics and Cybersecurity Graduate and your friendly tech explorer in the digital wilderness! 🌍✨</h3>
 <br>
 🔧 Can I Code it? Yes, I can!
